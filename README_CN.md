@@ -198,9 +198,3 @@ python3 -m http.server 8000
 ---
 
 **需要帮助？** 查看示例 `config.json`！
-    "url": "https://github.com/username"
-  }
-]
-```
-
-**可用图标**（来自 [Lucide Icons](https://lucide.dev/icons/)）：
