@@ -11,7 +11,7 @@
 - 🔧 通过JSON配置，简单易用
 - 📦 长列表的展开/收起功能
 - 🎯 板块可见性控制
-- 🎭 专业图标库（Lucide Icons）
+- 🎭 专业图标库（Font Awesome）
 
 ## 🚀 快速开始
 
@@ -49,10 +49,10 @@
 ]
 ```
 
-**可用图标**（来自 [Lucide Icons](https://lucide.dev/icons/)）：
+**可用图标**（来自 [Font Awesome](https://fontawesome.com/icons)）：
 - `github`, `book-open`, `mail`, `linkedin`, `twitter`, `globe`, `file-text`, `youtube`, `instagram`, `facebook`
 
-浏览全部1000+图标：https://lucide.dev/icons/
+浏览全部图标：https://fontawesome.com/icons
 
 ### 板块配置
 
@@ -178,7 +178,7 @@ python3 -m http.server 8000
 
 **图标不显示？**
 - 检查网络连接（图标从CDN加载）
-- 在 https://lucide.dev/icons/ 验证图标名称
+- 在 https://fontawesome.com/icons 验证图标名称
 
 **板块不显示？**
 - 确保config.json中设置了 `visible: true`
@@ -190,9 +190,10 @@ python3 -m http.server 8000
 
 ## 🙏 致谢
 
-- 图标：[Lucide Icons](https://lucide.dev/)
+- 图标：[Font Awesome](https://fontawesome.com/)
 - 字体：[Google Fonts](https://fonts.google.com/)
 - 使用纯HTML、CSS和JavaScript构建
+- 🤖 AI辅助开发（Claude）
 
 ---
 

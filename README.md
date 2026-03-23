@@ -49,10 +49,10 @@ All content is configured through `config.json`.
 ]
 ```
 
-**Available Icons** (from [Lucide Icons](https://lucide.dev/icons/)):
+**Available Icons** (from [Font Awesome](https://fontawesome.com/icons)):
 - `github`, `book-open`, `mail`, `linkedin`, `twitter`, `globe`, `file-text`, `youtube`, `instagram`, `facebook`
 
-Browse all 1000+ icons at: https://lucide.dev/icons/
+Browse all icons at: https://fontawesome.com/icons
 
 ### Sections
 
@@ -178,7 +178,7 @@ python3 -m http.server 8000
 
 **Icons not displaying?**
 - Check internet connection (icons load from CDN)
-- Verify icon names at https://lucide.dev/icons/
+- Verify icon names at https://fontawesome.com/icons
 
 **Section not appearing?**
 - Ensure `visible: true` in config.json
@@ -190,9 +190,10 @@ Free to use for personal academic homepages.
 
 ## 🙏 Credits
 
-- Icons: [Lucide Icons](https://lucide.dev/)
+- Icons: [Font Awesome](https://fontawesome.com/)
 - Fonts: [Google Fonts](https://fonts.google.com/)
 - Built with vanilla HTML, CSS, and JavaScript
+- 🤖 AI-assisted development with Claude
 
 ---
 
