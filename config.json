@@ -1,0 +1,111 @@
+{
+  "name": "Your Name",
+  "title": "Your Title/Position",
+  "affiliation": "Your Institution",
+  "pageTitle": "Your Name - Academic Homepage",
+  "avatar": "assets/files/avatar/avatar.jpg",
+  "bio": "Your bio here. You can use **bold** and *italic* markdown syntax.",
+
+  "links": [
+    {
+      "icon": "book-open",
+      "name": "Blog",
+      "url": "https://yourblog.com"
+    },
+    {
+      "icon": "github",
+      "name": "GitHub",
+      "url": "https://github.com/username"
+    },
+    {
+      "icon": "mail",
+      "name": "Email",
+      "url": "mailto:your.email@example.com"
+    }
+  ],
+
+  "sections": {
+    "education": {
+      "title": "Education",
+      "visible": true,
+      "initialShow": 2,
+      "items": [
+        {
+          "years": "2020 - 2024",
+          "school": "University Name",
+          "schoolUrl": "https://university.edu",
+          "dept": "Department/College Name",
+          "degree": "Degree Name",
+          "logo": "assets/files/institute/university-logo.png"
+        }
+      ]
+    },
+
+    "publications": {
+      "title": "Publications",
+      "visible": true,
+      "initialShow": 3,
+      "items": [
+        {
+          "title": "Paper Title: A Novel Approach",
+          "authors": "Author 1, **Your Name**, Author 3",
+          "venue": "Conference/Journal Name",
+          "type": "Conference",
+          "links": [
+            {
+              "name": "Paper",
+              "url": "https://arxiv.org/"
+            },
+            {
+              "name": "Code",
+              "url": "https://github.com/"
+            }
+          ],
+          "award": "Best Paper Award"
+        }
+      ]
+    },
+
+    "opensource": {
+      "title": "Open Source",
+      "visible": true,
+      "initialShow": 3,
+      "items": [
+        {
+          "title": "Project Name",
+          "organization": "GitHub",
+          "year": "2024",
+          "description": "Brief description of your open source contribution",
+          "url": "https://github.com/username/project"
+        }
+      ]
+    },
+
+    "awards": {
+      "title": "Awards",
+      "visible": true,
+      "initialShow": 3,
+      "items": [
+        {
+          "title": "Award Name",
+          "organization": "Awarding Organization",
+          "year": "2024",
+          "description": "Brief description of the award"
+        }
+      ]
+    },
+
+    "projects": {
+      "title": "Projects",
+      "visible": true,
+      "initialShow": 2,
+      "items": [
+        {
+          "title": "Project Name",
+          "description": "Project description goes here",
+          "url": "https://github.com/username/project"
+        }
+      ]
+    }
+  }
+}
